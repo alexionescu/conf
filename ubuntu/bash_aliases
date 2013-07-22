@@ -14,6 +14,7 @@ alias wan='curl ifconfig.me'
 alias wget='wget -c'
 
 # git aliases
+alias g='git'
 alias ga='git a'
 alias gbr='git br'
 alias gci='git ci'

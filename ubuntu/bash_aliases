@@ -1,9 +1,13 @@
+# ls
+alias l='ls -lh'
+alias la='ls -a'
+alias ll='ls -lhsa'
+
 # general
 alias ..='cd ..'
 alias c='clear'
 alias h='history'
 alias j='jobs'
-alias l='ls -l'
 alias m='man'
 alias mkdir='mkdir -p'
 alias mount='mount | column -t'

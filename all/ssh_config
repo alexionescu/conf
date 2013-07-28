@@ -1,0 +1,6 @@
+Host github.com
+	IdentityFile ~/keys/alexionescu
+Host git.alexionescu.net
+	IdentityFile ~/keys/alexionescu
+Host bitbucket.org
+	IdentityFile ~/keys/alexionescu

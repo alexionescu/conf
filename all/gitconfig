@@ -17,3 +17,5 @@
 [user]
 	name = Alex Ionescu
 	email = ionescuac@gmail.com
+[color]
+	ui = auto

@@ -50,3 +50,5 @@ alias su='sudo -i'
 alias taru='tar -xf'
 alias tarc='tar -cf'
 
+alias lldb='sudo lldb'
+alias gdb='sudo lldb'

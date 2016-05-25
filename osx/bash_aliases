@@ -42,9 +42,7 @@ alias cp='cp -i'
 alias mv='mv -i'
 
 # sudo 
-alias root='sudo -i'
-alias s='sudo'
-alias su='sudo -i'
+alias su='sudo -s'
 
 # tar
 alias taru='tar -xf'

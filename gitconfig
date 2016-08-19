@@ -16,8 +16,13 @@
 [user]
 	name = Alex Ionescu
 	email = ionescuac@gmail.com
+	signingkey = 504422FEC6F1E7D688771F036553FBC88F245253
 [color]
 	ui = auto
 [core]
 	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
 	pager = less -F -X
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2

@@ -27,4 +27,4 @@
 [gpg]
 	program = gpg2
 [push]
-	default = simple
+	default = matching
